@@ -1,0 +1,14 @@
+{
+  "schema_id": "evidence.v1",
+  "evidence_id": "evidence.resume.director_residence_life",
+  "source_type": "resume_summary",
+  "summary": "Director-level Residence Life leadership includes multi-campus oversight, strategic initiatives, supervision of 170+ staff, assessment planning, recruitment/onboarding, budget oversight, and cross-functional partnerships.",
+  "claims_supported": [
+    "program_management",
+    "cross_functional_leadership",
+    "assessment",
+    "recruitment_operations",
+    "executive_stakeholder_communication"
+  ],
+  "sensitivity": "career_public_summary"
+}

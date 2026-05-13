@@ -1,0 +1,22 @@
+{
+  "schema_id": "branch.v1",
+  "branch_id": "phd-outreach",
+  "title": "PhD Outreach and University Ecosystem Strategy",
+  "status": "active",
+  "purpose": "Build evidence, portfolio projects, and application strategy for roles involving faculty engagement, PhD talent communities, university partnerships, research translation, and data-informed outreach.",
+  "parent_kernel": "kirsten-work-os-kernel",
+  "active_opportunity_ids": [
+    "opp.google.phd_outreach_program_manager.2026"
+  ],
+  "evidence_refs": [
+    "evidence.resume.director_residence_life",
+    "evidence.resume.alumni_engagement",
+    "evidence.dissertation.systems_redesign"
+  ],
+  "artifact_targets": [
+    "phd-outreach-intelligence-dashboard",
+    "university-research-relationship-graph",
+    "phd-engagement-playbook-and-metrics",
+    "research-brief-generator-for-outreach"
+  ]
+}

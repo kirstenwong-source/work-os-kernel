@@ -1,0 +1,13 @@
+{
+  "schema_id": "evidence.v1",
+  "evidence_id": "evidence.dissertation.systems_redesign",
+  "source_type": "dissertation_summary",
+  "summary": "Dissertation-facing themes include action research, role ambiguity, supervision quality, support system design, hidden structural demands, and translating student experience into institutional redesign.",
+  "claims_supported": [
+    "research_to_practice_translation",
+    "systems_thinking",
+    "data_informed_improvement",
+    "technical_translation"
+  ],
+  "sensitivity": "career_public_summary"
+}

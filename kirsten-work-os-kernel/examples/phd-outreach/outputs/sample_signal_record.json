@@ -1,0 +1,18 @@
+{
+  "schema_id": "signal_record.v1",
+  "record_id": "signal_record.a78349c21d64",
+  "created_at": "2026-05-13T01:13:18Z",
+  "source_signal_id": "signal.google_phd_outreach.role_found.2026",
+  "branch_id": "phd-outreach",
+  "signal_type": "role_opportunity",
+  "summary": "Google PhD Outreach Program Manager role suggests a strong but translation-heavy fit: university ecosystem leadership, outreach operations, academic partnership fluency, and data-informed program strategy.",
+  "source_ref": "source.google_phd_outreach.jd",
+  "recommended_action": "Build portfolio projects that make academic outreach strategy, data fluency, and research translation visible.",
+  "status": "captured_for_review",
+  "next_steps": [
+    "Confirm source evidence.",
+    "Connect signal to a branch contract.",
+    "Decide which artifact should be generated next.",
+    "Promote only reviewed facts into canonical data."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schema_id": "competency_map.v1",
+  "competencies": [
+    {
+      "id": "program_management",
+      "label": "Program management",
+      "evidence_refs": [
+        "evidence.resume.director_residence_life"
+      ]
+    },
+    {
+      "id": "academic_relations",
+      "label": "Academic and university relations",
+      "evidence_refs": [
+        "evidence.resume.community_outreach",
+        "evidence.resume.alumni_engagement"
+      ]
+    },
+    {
+      "id": "outreach_strategy",
+      "label": "Outreach strategy",
+      "evidence_refs": [
+        "evidence.resume.alumni_engagement",
+        "evidence.resume.community_outreach"
+      ]
+    },
+    {
+      "id": "data_informed_decisions",
+      "label": "Data-informed decisions",
+      "evidence_refs": [
+        "evidence.resume.assessment",
+        "evidence.resume.retention_improvement"
+      ]
+    },
+    {
+      "id": "executive_communication",
+      "label": "Executive and stakeholder communication",
+      "evidence_refs": [
+        "evidence.resume.director_residence_life"
+      ]
+    },
+    {
+      "id": "technical_translation",
+      "label": "Technical and research translation",
+      "evidence_refs": [
+        "evidence.dissertation.systems_redesign"
+      ]
+    }
+  ]
+}

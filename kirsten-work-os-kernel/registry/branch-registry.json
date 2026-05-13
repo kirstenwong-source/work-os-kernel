@@ -1,0 +1,11 @@
+{
+  "schema_id": "branch_registry.v1",
+  "branches": [
+    {
+      "branch_id": "phd-outreach",
+      "path": "branches/phd-outreach/branch.json",
+      "status": "active",
+      "purpose": "University ecosystem, faculty engagement, PhD talent outreach, and research translation portfolio work."
+    }
+  ]
+}

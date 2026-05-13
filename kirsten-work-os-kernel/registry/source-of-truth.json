@@ -1,0 +1,43 @@
+{
+  "schema_id": "source_of_truth.v1",
+  "authority_order": [
+    {
+      "rank": 1,
+      "path": "registry/source-of-truth.json",
+      "meaning": "authority order and root registry"
+    },
+    {
+      "rank": 2,
+      "path": "governance/PROMOTION_POLICY.md",
+      "meaning": "promotion and canonical mutation policy"
+    },
+    {
+      "rank": 3,
+      "path": "schemas/",
+      "meaning": "object contracts"
+    },
+    {
+      "rank": 4,
+      "path": "data/canonical/",
+      "meaning": "reviewed profile and competency data"
+    },
+    {
+      "rank": 5,
+      "path": "data/evidence/",
+      "meaning": "evidence support objects"
+    },
+    {
+      "rank": 6,
+      "path": "branches/",
+      "meaning": "branch workstreams"
+    },
+    {
+      "rank": 7,
+      "path": "data/runtime/",
+      "meaning": "generated outputs and local drafts"
+    }
+  ],
+  "canonical_profile": "data/canonical/profile/kirsten_profile.json",
+  "active_branch_registry": "registry/branch-registry.json",
+  "schema_registry": "registry/schema-registry.json"
+}

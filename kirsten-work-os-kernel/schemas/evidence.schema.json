@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "evidence.v1",
+  "title": "Evidence",
+  "type": "object",
+  "required": [
+    "schema_id",
+    "evidence_id",
+    "source_type",
+    "summary",
+    "claims_supported",
+    "sensitivity"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string"
+    },
+    "evidence_id": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "claims_supported": {
+      "type": "array"
+    },
+    "sensitivity": {
+      "type": "string"
+    }
+  }
+}

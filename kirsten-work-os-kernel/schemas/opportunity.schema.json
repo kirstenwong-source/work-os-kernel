@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "opportunity.v1",
+  "title": "Opportunity",
+  "type": "object",
+  "required": [
+    "schema_id",
+    "opportunity_id",
+    "title",
+    "organization",
+    "branch_id",
+    "required_capabilities",
+    "preferred_capabilities",
+    "strategic_thesis"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string"
+    },
+    "opportunity_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "organization": {
+      "type": "string"
+    },
+    "branch_id": {
+      "type": "string"
+    },
+    "required_capabilities": {
+      "type": "array"
+    },
+    "preferred_capabilities": {
+      "type": "array"
+    },
+    "strategic_thesis": {
+      "type": "string"
+    }
+  }
+}

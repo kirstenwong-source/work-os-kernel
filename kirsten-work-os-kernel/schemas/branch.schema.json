@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "branch.v1",
+  "title": "Branch",
+  "type": "object",
+  "required": [
+    "schema_id",
+    "branch_id",
+    "title",
+    "status",
+    "purpose",
+    "parent_kernel",
+    "evidence_refs",
+    "artifact_targets"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string"
+    },
+    "branch_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "purpose": {
+      "type": "string"
+    },
+    "parent_kernel": {
+      "type": "string"
+    },
+    "evidence_refs": {
+      "type": "array"
+    },
+    "artifact_targets": {
+      "type": "array"
+    }
+  }
+}

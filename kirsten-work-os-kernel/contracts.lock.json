@@ -1,0 +1,12 @@
+{
+  "schema_id": "contracts_lock.v1",
+  "kernel": "kirsten-work-os-kernel",
+  "version": "0.1.0",
+  "contract_mode": "single_repo_local_first",
+  "locked_surfaces": [
+    "registry/source-of-truth.json",
+    "registry/schema-registry.json",
+    "registry/branch-registry.json",
+    "schemas/"
+  ]
+}

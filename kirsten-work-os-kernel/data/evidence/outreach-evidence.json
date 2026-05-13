@@ -1,0 +1,13 @@
+{
+  "schema_id": "evidence.v1",
+  "evidence_id": "evidence.resume.alumni_engagement",
+  "source_type": "resume_summary",
+  "summary": "Alumni Engagement experience includes constituent engagement, programs for a 60,000-member alumni audience, volunteer engagement growth, affinity groups, chapter training, and communication strategy.",
+  "claims_supported": [
+    "outreach_strategy",
+    "external_relations",
+    "constituent_engagement",
+    "event_strategy"
+  ],
+  "sensitivity": "career_public_summary"
+}

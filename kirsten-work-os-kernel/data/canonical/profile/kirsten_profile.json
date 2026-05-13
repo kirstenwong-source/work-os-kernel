@@ -1,0 +1,30 @@
+{
+  "schema_id": "profile.v1",
+  "profile_id": "kirsten-wong-profile-v1",
+  "name": "Kirsten Amasett Wong",
+  "positioning": "Higher education leader, scholar-practitioner, and university ecosystem strategist who builds data-informed engagement systems, developmental programs, and cross-functional partnerships.",
+  "current_identity": [
+    "Director-level student affairs and residence life leader",
+    "Ed.D. candidate in Learning, Leadership, and Organization Development",
+    "Builder of student engagement, leadership development, outreach, and assessment systems",
+    "Emerging AI-enabled portfolio builder for university partnership and PhD outreach work"
+  ],
+  "strengths": [
+    "program leadership",
+    "cross-functional partnership",
+    "student and community engagement",
+    "recruitment and onboarding operations",
+    "assessment and data-informed improvement",
+    "executive and stakeholder communication",
+    "leadership development and cohort programming",
+    "university ecosystem fluency",
+    "research-to-practice translation"
+  ],
+  "evidence_refs": [
+    "evidence.resume.director_residence_life",
+    "evidence.resume.alumni_engagement",
+    "evidence.resume.community_outreach",
+    "evidence.resume.leadership_programs",
+    "evidence.dissertation.systems_redesign"
+  ]
+}

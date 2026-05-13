@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "artifact_request.v1",
+  "title": "Artifact Request",
+  "type": "object",
+  "required": [
+    "schema_id",
+    "artifact_id",
+    "branch_id",
+    "artifact_type",
+    "purpose",
+    "inputs",
+    "review_status"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string"
+    },
+    "artifact_id": {
+      "type": "string"
+    },
+    "branch_id": {
+      "type": "string"
+    },
+    "artifact_type": {
+      "type": "string"
+    },
+    "purpose": {
+      "type": "string"
+    },
+    "inputs": {
+      "type": "array"
+    },
+    "review_status": {
+      "type": "string"
+    }
+  }
+}

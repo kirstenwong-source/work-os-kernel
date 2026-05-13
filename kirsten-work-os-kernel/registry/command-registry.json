@@ -1,0 +1,25 @@
+{
+  "schema_id": "command_registry.v1",
+  "commands": [
+    {
+      "name": "validate",
+      "module": "kirsten_work_os_kernel.cli",
+      "purpose": "Validate repository structure and registered objects."
+    },
+    {
+      "name": "build-branch",
+      "module": "kirsten_work_os_kernel.cli",
+      "purpose": "Build a branch packet from an opportunity and profile."
+    },
+    {
+      "name": "build-brief",
+      "module": "kirsten_work_os_kernel.cli",
+      "purpose": "Build a strategy brief from an opportunity and profile."
+    },
+    {
+      "name": "intake-signal",
+      "module": "kirsten_work_os_kernel.cli",
+      "purpose": "Convert a local signal into a runtime record."
+    }
+  ]
+}

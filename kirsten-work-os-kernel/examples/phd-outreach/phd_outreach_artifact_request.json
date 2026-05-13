@@ -1,0 +1,13 @@
+{
+  "schema_id": "artifact_request.v1",
+  "artifact_id": "artifact.phd_outreach.dashboard.v1",
+  "branch_id": "phd-outreach",
+  "artifact_type": "github_portfolio_project",
+  "purpose": "Create a dashboard prototype that signals data-informed PhD outreach strategy.",
+  "inputs": [
+    "examples/phd-outreach/google_phd_outreach_opportunity.json",
+    "data/canonical/profile/kirsten_profile.json",
+    "branches/phd-outreach/outreach-dashboard-spec.md"
+  ],
+  "review_status": "draft_ready"
+}

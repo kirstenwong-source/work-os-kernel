@@ -1,0 +1,23 @@
+{
+  "schema_id": "source_log.v1",
+  "sources": [
+    {
+      "source_id": "source.resume.2026",
+      "type": "resume",
+      "status": "available",
+      "notes": "Resume evidence summarized for career use."
+    },
+    {
+      "source_id": "source.google_phd_outreach.jd",
+      "type": "job_description",
+      "status": "available",
+      "notes": "Google PhD Outreach Program Manager role text supplied by user."
+    },
+    {
+      "source_id": "source.dissertation.findings",
+      "type": "dissertation",
+      "status": "partial",
+      "notes": "Career-facing dissertation themes only; not a full dissertation evidence repository."
+    }
+  ]
+}

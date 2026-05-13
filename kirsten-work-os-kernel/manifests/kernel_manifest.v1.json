@@ -1,0 +1,14 @@
+{
+  "schema_id": "kernel_manifest.v1",
+  "kernel_name": "kirsten-work-os-kernel",
+  "version": "0.1.0",
+  "planes": [
+    "control",
+    "evidence",
+    "execution"
+  ],
+  "source_of_truth": "registry/source-of-truth.json",
+  "schema_registry": "registry/schema-registry.json",
+  "branch_registry": "registry/branch-registry.json",
+  "default_profile": "data/canonical/profile/kirsten_profile.json"
+}

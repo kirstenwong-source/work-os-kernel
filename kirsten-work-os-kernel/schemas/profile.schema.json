@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "profile.v1",
+  "title": "Profile",
+  "type": "object",
+  "required": [
+    "schema_id",
+    "profile_id",
+    "name",
+    "positioning",
+    "strengths",
+    "evidence_refs"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string"
+    },
+    "profile_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "positioning": {
+      "type": "string"
+    },
+    "strengths": {
+      "type": "array"
+    },
+    "evidence_refs": {
+      "type": "array"
+    }
+  }
+}

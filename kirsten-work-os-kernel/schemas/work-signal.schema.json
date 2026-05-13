@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "work_signal.v1",
+  "title": "Work Signal",
+  "type": "object",
+  "required": [
+    "schema_id",
+    "signal_id",
+    "branch_id",
+    "signal_type",
+    "summary",
+    "source_ref",
+    "recommended_action"
+  ],
+  "properties": {
+    "schema_id": {
+      "type": "string"
+    },
+    "signal_id": {
+      "type": "string"
+    },
+    "branch_id": {
+      "type": "string"
+    },
+    "signal_type": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "source_ref": {
+      "type": "string"
+    },
+    "recommended_action": {
+      "type": "string"
+    }
+  }
+}

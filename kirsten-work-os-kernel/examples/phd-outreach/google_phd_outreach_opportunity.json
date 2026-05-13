@@ -1,0 +1,37 @@
+{
+  "schema_id": "opportunity.v1",
+  "opportunity_id": "opp.google.phd_outreach_program_manager.2026",
+  "title": "PhD Outreach Program Manager",
+  "organization": "Google",
+  "branch_id": "phd-outreach",
+  "location_strategy": "US multi-location; user noted Atlanta and other possible locations in source job description.",
+  "required_capabilities": [
+    "program management",
+    "cross-functional project leadership",
+    "academic relations",
+    "external affairs",
+    "outreach program management",
+    "recruiting or talent engagement",
+    "travel readiness"
+  ],
+  "preferred_capabilities": [
+    "university ecosystems",
+    "faculty engagement",
+    "executive communication",
+    "technical outlook translation",
+    "data analysis",
+    "lab and research community insight"
+  ],
+  "strategic_thesis": "Position Kirsten as a university ecosystem and talent-engagement leader who can build trusted academic relationships, design data-informed engagement programs, and translate complex institutional and research contexts into outreach strategy.",
+  "evidence_refs": [
+    "evidence.resume.director_residence_life",
+    "evidence.resume.alumni_engagement",
+    "evidence.dissertation.systems_redesign"
+  ],
+  "portfolio_projects": [
+    "phd-outreach-intelligence-dashboard",
+    "university-research-relationship-graph",
+    "phd-engagement-playbook-and-metrics",
+    "research-brief-generator-for-outreach"
+  ]
+}

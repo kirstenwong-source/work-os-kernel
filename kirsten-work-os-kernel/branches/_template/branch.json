@@ -1,0 +1,10 @@
+{
+  "schema_id": "branch.v1",
+  "branch_id": "replace-with-branch-slug",
+  "title": "Replace With Branch Title",
+  "status": "draft",
+  "purpose": "Describe what this workstream is for.",
+  "parent_kernel": "kirsten-work-os-kernel",
+  "evidence_refs": [],
+  "artifact_targets": []
+}

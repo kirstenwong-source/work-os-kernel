@@ -1,0 +1,35 @@
+{
+  "schema_id": "schema_registry.v1",
+  "schemas": [
+    {
+      "id": "profile.v1",
+      "path": "schemas/profile.schema.json",
+      "status": "active"
+    },
+    {
+      "id": "opportunity.v1",
+      "path": "schemas/opportunity.schema.json",
+      "status": "active"
+    },
+    {
+      "id": "work_signal.v1",
+      "path": "schemas/work-signal.schema.json",
+      "status": "active"
+    },
+    {
+      "id": "artifact_request.v1",
+      "path": "schemas/artifact.schema.json",
+      "status": "active"
+    },
+    {
+      "id": "branch.v1",
+      "path": "schemas/branch.schema.json",
+      "status": "active"
+    },
+    {
+      "id": "evidence.v1",
+      "path": "schemas/evidence.schema.json",
+      "status": "active"
+    }
+  ]
+}

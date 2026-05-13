@@ -1,0 +1,26 @@
+authority_order:
+  - registry/source-of-truth.json
+  - governance/PROMOTION_POLICY.md
+  - schemas/
+  - data/canonical/
+  - data/evidence/
+  - branches/
+  - data/runtime/
+
+planes:
+  control_plane:
+    owns:
+      - governance
+      - registry
+      - schemas
+      - data/canonical
+  evidence_plane:
+    owns:
+      - data/evidence
+      - data/runtime
+  execution_plane:
+    owns:
+      - src
+      - scripts
+      - tests
+      - .github/workflows
