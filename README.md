@@ -120,7 +120,7 @@ The `branches/phd-outreach/` folder includes:
 - a role-fit map
 - a 90-day operating plan
 - an outreach dashboard specification
-- an example Google PhD outreach opportunity object
+- an example PhD outreach opportunity object
 - an example signal object
 
 This branch demonstrates how the kernel can support a specific opportunity without contaminating the canonical career evidence layer.
