@@ -1,4 +1,4 @@
-# Kirsten Work OS Kernel
+# OS Kernel
 
 A reusable operating-system kernel for career strategy, research translation, portfolio projects, outreach, applications, interview preparation, and professional storytelling.
 
